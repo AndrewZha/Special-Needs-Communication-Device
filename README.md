@@ -45,6 +45,7 @@
     - 🔹Emotion Dial:
       - 🔹Potentiometer on the side controls a servo indicator cycles through various emotions
       - 🔹This module was emphasized by the field expert as one of the most needed communication assistance for young children
+      
       ![Servo](images/ServoPic.png)
       [![Emotion Dial Module](images/Servo.png)](STL/Servo.STL)
     - 🔹Animal Sounds:
